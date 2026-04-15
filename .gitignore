@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and checkpoints (too large for git)
+runs/
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.h5
+
+# Logs
+*.log
+*.jsonl
+fail_logs*/
+
+# Visualization outputs
+viz_inputs/
+viz_inputs_rich/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
