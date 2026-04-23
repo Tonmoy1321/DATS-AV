@@ -210,10 +210,12 @@ If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{tonmoy2025datsav,
-  title     = {{DATS-AV}: A Dissonance-Aware Two-Stage Framework for Audio--Visual Deepfake Detection},
-  author    = {Tonmoy, Rubayet Kabir and Rattani, Ajita},
-  year      = {2025},
-  institution = {University of North Texas}
+ author = {Tonmoy, Rubayet Kabir and Rattani, Ajita},
+ title = {{DATS-AV}: A Dissonance-Aware Two-Stage Framework for Audio--Visual Deepfake Detection},
+ booktitle = {Proceedings of the International Conference on Pattern Recognition (ICPR)},
+ year = {2026},
+ address = {Lyon, France},
+ organization = {International Association for Pattern Recognition (IAPR)}
 }
 ```
 
